@@ -11,3 +11,5 @@ CLI: There is a cli version of this app
 GUI: There is a GUI version built with FreeSimpleGUI
 
 Webb: There is a web app version built with streamlit
+
+This app was built as part of the python mega course (PMC) taught by Ardit Sulce
